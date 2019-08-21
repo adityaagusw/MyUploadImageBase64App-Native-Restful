@@ -2,4 +2,4 @@
 Rest Api PHP ini punya project Upload Image Base64
 
 # Aplikasi Android
-- Link : https://github.com/adityaagusw/Upload-Image-Base64
+- Link : https://github.com/adityaagusw/Upload-Image-Base64-Retrofit
